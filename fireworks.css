@@ -22,17 +22,18 @@ h2 {
     top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #fff;
+    color: #ff00ff;
     font-family: "sans-serif";
     font-size: 2em;
     font-weight: 500;
     -webkit-user-select: none;
     user-select: none;
+    margin-top: 50px;
 }
 
 .box {
     position: absolute;
-    top: 60%;
+    top: 80%;
     left: 50%;
     border-radius: 25px;
     width: 7em;
